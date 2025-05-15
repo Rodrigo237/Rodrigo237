@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+```bash
+git add
+git commit -m "Add ABOUT.txt with project information"
+```
